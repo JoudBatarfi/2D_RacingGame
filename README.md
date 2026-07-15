@@ -176,7 +176,7 @@ Players not only enjoy classic gameplay, they also **learn software design patte
 
 ## Project Highlights
 
- **12 Design Patterns** implemented across 3 stages  
+ **9 Design Patterns** implemented across 3 stages  
  **Educational gameplay** combining coding concepts with classic arcade action  
  **Clean architecture** with separation of concerns  
  **Extensible codebase** ready for future enhancements  
